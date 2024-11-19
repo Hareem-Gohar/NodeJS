@@ -5,6 +5,7 @@ This repo contains my Node.js learning journey, with examples and projects demon
 ## Topics Covered(till now)
 
 - Node.js Setup
+- How NodeJs Works(Event Driven Architecture)
 - File System (fs) Module
 - HTTP Web Server.
 - URL and its Components
