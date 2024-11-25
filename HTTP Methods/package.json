@@ -1,0 +1,12 @@
+{
+  "name": "http-methds",
+  "version": "1.0.0",
+  "description": "HTTP methods are verbs used to indicate the desired action to be performed on a given resource in web applications. In **Node.js**, the `http` module allows us to handle these methods when building a server. Here's an explanation of common HTTP methods:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
