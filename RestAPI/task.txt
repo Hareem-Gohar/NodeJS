@@ -1,0 +1,15 @@
+REST API - JSON
+
+Hybrid Server
+
+GET / api/users - HTML Document
+GET /users - List all users JSON
+GET /users/:id - Get a user by ID (Dynamic Path Parameters)
+GET /users/1 - Get the user with ID-1
+GET /users?name=John - Get the user with name John
+
+POST /users - Create new user
+
+PATCH /user/1 - Edit the user with id 1
+
+DELETE /users/1 - Delete the user with id 1
