@@ -11,3 +11,4 @@ This repo contains my Node.js learning journey, with examples and projects demon
 - URL and its Components
 - HTTP Methods
 - ExpressJs
+- Middleware , HTTP Headers and Status
